@@ -1,0 +1,44 @@
+/*Theme Name: RenansTheme*/
+body{
+    background-color: #f1f1f1;
+    text-align: left;
+    color: #2d2d2d;
+}
+
+.container{
+    margin-left: 3%;
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+    max-width: 95%;
+}
+
+#ttr_main{
+    overflow: auto;
+    height: 100%;
+}
+
+#ttr_footer{
+    width: 100%;
+    border-top: 1px #a2a2a2 solid;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    margin-bottom: 0;
+    background-color: #2d2d2d;
+    color: #f1f1f1;
+    text-align: center !important; 
+}
+
+#ttr_header{
+    text-align: center;
+    color: #f1f1f1;
+    background-color: #2d2d2d;
+}
+
+
+.title{
+    font-size: 11pt;
+    font-family: verdana;
+    font-weight: bold;
+}
